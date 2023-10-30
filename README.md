@@ -1,2 +1,2 @@
 # python3-cursoemvideo
- Exercicios e desafios do curso de Python3 do Curso em Vídeo
+ Neste repositório, documento minha jornada de aprendizado em Python com alguns dos exercicios e desafios aprendidos no curso de Python3 do Curso em Vídeo.
